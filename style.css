@@ -1,0 +1,16 @@
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@800&family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@800&family=Open+Sans family=Poppins&display=swap');
+
+body{
+    font-family: 'Poppins';
+}
+h1, h2, h3, h4, h5{
+    font-family: 'EB Garamond';
+}
+.praymary-bg{
+    background: #B68C5A;
+}
+.praymary-color{
+    color: #B68C5A;
+}
