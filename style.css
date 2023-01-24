@@ -14,6 +14,9 @@ h1, h2, h3, h4, h5{
 .praymary-color{
     color: #B68C5A;
 }
-.logo-w-40{
-    height: 40px;
+.-ms-15{
+    margin-left: -15px;
+}
+.w-32{
+    width: 32px;
 }
